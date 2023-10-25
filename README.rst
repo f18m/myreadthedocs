@@ -7,3 +7,8 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+Read the associated docs specific to this project here:
+
+https://f18m-myreadthedocs.readthedocs.io/en/latest/
+
