@@ -6,4 +6,4 @@ build:
     nodejs: "20"
   commands:
     - npm install -g asciidoctor
-    - asciidoctor -D $READTHEDOCS_OUTPUT/html docs/index.asciidoc
+    - asciidoctor -D $READTHEDOCS_OUTPUT/html docs/*.adoc
